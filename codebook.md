@@ -10,7 +10,7 @@
     * `STANDING`
     * `LAYING`
     
-    ### Average of measurements <a name="average-measurements"></a>
+ ## Average of measurements <a name="average-measurements"></a>
 
 All measurements are floating-point values, normalised and bounded within [-1,1].
 
@@ -195,4 +195,4 @@ The zip file containing the source data is located at [https://d396qusza40orc.cl
 
 
 
-The collection of the source data and the transformations listed above were implemented by the `run_analysis.R` R script (see `README.md` file for usage instructions).
+The collection of the source data and the transformations listed above were implemented by the `run_analysis.R` R script (see `README.md` file to see what the code does).
