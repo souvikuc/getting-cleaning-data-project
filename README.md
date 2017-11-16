@@ -7,5 +7,5 @@ The code **run_analysis.R** is R code required for the course project. In short 
  4. It merges the activity dataset with the filtered dataset matched by a activity ID.
  5. Then it changes the variable names with descriptive title for better understanding, like 'Acc= Accelerometer' etc.
  6. Lastly, it creates the second tidy dataset which consists the mean values for each variable per activity and per subject.
- 7. And then it will save the final tidy dataset in a file called **second_tidy_dataset.txt**.
+ 7. And then it will save the final tidy dataset in a file called **second_tidy_data.txt**.
         *
